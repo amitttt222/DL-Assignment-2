@@ -14,5 +14,5 @@ question-4-part-a.ipynb<br/>
 train.py<br/>
 README.MD<br/>
 ## Results<br/>
-The best training accuracy on inaturalist12k dataset achieved is *37%* while validation accuracy is *69.934967%*. The explanation and results of subproblems 
+The best training accuracy on inaturalist12k dataset achieved is *43%* while validation accuracy is *37%*. The explanation and results of subproblems 
 can be accessed (https://api.wandb.ai/links/cs22m010/3z0c1j6z)
