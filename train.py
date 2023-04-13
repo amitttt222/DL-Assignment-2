@@ -1,37 +1,3 @@
-# import os
-# from PIL import Image
-# import numpy as np
-
-# def load_data(data_dir):
-#     images = []
-#     labels = []
-#     classes = os.listdir(data_dir)
-#     for cls in classes:
-#         cls_path = os.path.join(data_dir, cls)
-#         if os.path.isdir(cls_path):
-#             cls_images = os.listdir(cls_path)
-#             for img_name in cls_images:
-#                 img_path = os.path.join(cls_path, img_name)
-#                 img = Image.open(img_path).resize((224, 224))
-#                 img = np.array(img) / 255.0
-#                 images.append(img)
-#                 labels.append(cls)
-#     return np.array(images), np.array(labels)
-
-
-# data_dir = '/kaggle/input/inaturalist12k/Data/inaturalist_12K'
-
-# train_dir = os.path.join(data_dir, 'train')
-# X_train, y_train = load_data(train_dir)
-
-# val_dir = os.path.join(data_dir, 'val')
-# X_val, y_val = load_data(val_dir)
-
-
-
-
-
-
 
 import argparse
 import os
