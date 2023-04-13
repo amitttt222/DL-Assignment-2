@@ -11,6 +11,7 @@ dataset and achieve high accuracy by tuning hyperparameters. Additionally, the a
 these below files contain the required code for second assignment part B<br/>
 googlenet-1.ipynb.ipynb<br/>
 DL Assignment_2_ques_1(CNN).ipynb<br/>
+question-4-part-a.ipynb<br/>
 train.py<br/>
 README.MD<br/>
 ## Results<br/>
