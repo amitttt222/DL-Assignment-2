@@ -11,6 +11,7 @@ dataset and achieve high accuracy by tuning hyperparameters. Additionally, the a
 these below files contain the required code for second assignment part B
 googlenet-1.ipynb.ipynb<br/>
 train.py<br/>
+DL Assignment_2_ques_1(CNN).ipynb
 README.MD<br/>
 ## Results<br/>
 The best training accuracy on inaturalist12k dataset achieved is *73.250000%* while validation accuracy is *69.934967%*. The explanation and results of subproblems 
