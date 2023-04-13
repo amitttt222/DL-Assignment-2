@@ -8,7 +8,7 @@ The inaturalist12k dataset is a large-scale image classification dataset that co
 ## Objective<br/>
 dataset and achieve high accuracy by tuning hyperparameters. Additionally, the assignment aims to visualize the learned filters to gain insights into how the model processes the images. Through this assignment, we will learn how to fine-tune hyperparameters, experiment with different model architectures, and interpret the results to improve model performance.
 ## Folder Structure<br/>
-these below files contain the required code for second assignment part B
+these below files contain the required code for second assignment part B<br/>
 googlenet-1.ipynb.ipynb<br/>
 train.py<br/>
 DL Assignment_2_ques_1(CNN).ipynb
